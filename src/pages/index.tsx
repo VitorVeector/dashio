@@ -1,5 +1,5 @@
 export default function Home() {
   return (
-    <h1>DashIO</h1>
+      <h1>DashIO</h1>
   )
 }
