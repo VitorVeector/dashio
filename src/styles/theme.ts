@@ -16,14 +16,14 @@ const formatTheme = {
         }
     },
     fonts: {
-        heading: 'Roboto',
-        body: 'Roboto' 
+        heading: 'Roboto Mono',
+        body: 'Roboto Mono' 
     },
     styles: {
         global: {
             body: {
                 bg: 'gray.900',
-                color: 'gray.500'
+                color: 'gray.200'
             }
         }
     }
