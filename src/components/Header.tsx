@@ -59,12 +59,12 @@ export const Header = () => {
                 </HStack>
                 <Flex align="center">
                     <Box mr="4" textAlign="right">
-                        <Text>Vítor Hugo</Text>
+                        <Text>Vitor Hugo Araujo</Text>
                         <Text color="gray.500" fontSize="small">job_vitoraraujo@outlook.com</Text>
                     </Box>
                     <Avatar
                         size="md"
-                        name="Vitor Hugo"
+                        name="Vitor Hugo Araujo"
                         src="https://github.com/vitorveector.png"/>
                 </Flex>
             </Flex>
