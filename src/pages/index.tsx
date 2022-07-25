@@ -1,6 +1,7 @@
 import { Button, Flex, Stack } from "@chakra-ui/react";
 import Input from '../components/Form/Input'
 import { Header } from "../components/Header";
+import { Sidebar } from "../components/Sidebar";
 
 export default function Home() {
   return (
